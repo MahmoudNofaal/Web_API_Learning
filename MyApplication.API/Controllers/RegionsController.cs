@@ -47,7 +47,7 @@ public class RegionsController : ControllerBase
    // GET SINGLE REGION (Get Region By ID)
    // GET: https://localhost:portnumber/api/regions/{id}
    [HttpGet]
-   [Authorize(Roles = "Writer,Reader")]
+   //[Authorize(Roles = "Writer,Reader")]
    [Route("{id:Guid}")]
    public async Task<IActionResult> GetById([FromRoute] Guid id)
    {
@@ -70,7 +70,7 @@ public class RegionsController : ControllerBase
    // POST To Create New Region
    // POST: https://localhost:portnumber/api/regions
    [HttpPost]
-   [Authorize(Roles = "Writer")]
+   //[Authorize(Roles = "Writer")]
    [ValidateModel]
    public async Task<IActionResult> Create([FromBody] AddRegionRequestDto addRegionRequestDto)
    {
@@ -90,7 +90,7 @@ public class RegionsController : ControllerBase
    // Update region
    // PUT: https://localhost:portnumber/api/regions/{id}
    [HttpPut]
-   [Authorize(Roles = "Writer")]
+   //[Authorize(Roles = "Writer")]
    [Route("{id:Guid}")]
    [ValidateModel]
    public async Task<IActionResult> Update([FromRoute] Guid id,
@@ -117,7 +117,7 @@ public class RegionsController : ControllerBase
    // Delete Region
    // DELETE: https://localhost:portnumber/api/regions/{id}
    [HttpDelete]
-   [Authorize(Roles = "Writer")]
+   //[Authorize(Roles = "Writer")]
    [Route("{id:Guid}")]
    public async Task<IActionResult> Delete([FromRoute] Guid id)
    {

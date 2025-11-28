@@ -44,7 +44,7 @@ public class ImagesController : ControllerBase
       return BadRequest(ModelState);
    }
 
-   public void ValidateFileUpload(ImageUploadRequestDto dto)
+   private void ValidateFileUpload(ImageUploadRequestDto dto)
    {
       var allowedExtensions = new List<string> { ".jpg", ".jpeg", ".png" };
 

@@ -164,6 +164,7 @@ D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debu
 D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\ref\MyApplication.API.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\appsettings.Development.json
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\appsettings.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.staticwebassets.runtime.json
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.staticwebassets.endpoints.json
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.exe
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.deps.json
@@ -218,8 +219,18 @@ D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.ClientModel.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.CodeDom.dll
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -320,6 +331,7 @@ D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.csproj.CoreCompileInputs.cache
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.sourcelink.json
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -336,14 +348,3 @@ D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.pdb
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.genruntimeconfig.cache
 D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\ref\MyApplication.API.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.staticwebassets.runtime.json
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
-D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.File.dll

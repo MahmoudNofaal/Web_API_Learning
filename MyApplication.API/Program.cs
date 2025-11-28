@@ -1,8 +1,6 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.FileProviders;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MyApplication.API.Data;
@@ -10,8 +8,6 @@ using MyApplication.API.Mappings;
 using MyApplication.API.Repositories;
 using MyApplication.API.Repositories.Interfaces;
 using Serilog;
-using Swashbuckle.AspNetCore.SwaggerGen;
-using Swashbuckle.AspNetCore.SwaggerUI;
 using System.Text;
 
 namespace MyApplication.API;

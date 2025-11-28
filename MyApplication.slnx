@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="MyApplication.API/MyApplication.API.csproj" />
+  <Project Path="MyApplication.UI/MyApplication.UI.csproj" Id="aa6af38d-4786-4a22-8647-941f87387350" />
 </Solution>

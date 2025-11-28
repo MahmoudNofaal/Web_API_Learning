@@ -1,0 +1,129 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\LICENSE.txt
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\dist\jquery.min.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\dist\jquery.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery\dist\jquery.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation\LICENSE.md
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\js\site.js
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\favicon.ico
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.UI\wwwroot\css\site.css
