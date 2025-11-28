@@ -1,0 +1,349 @@
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\appsettings.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.staticwebassets.endpoints.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.exe
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.deps.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.runtimeconfig.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.pdb
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Humanizer.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.csproj.AssemblyReference.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.AssemblyInfoInputs.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.AssemblyInfo.cs
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\scopedcss\bundle\MyApplication.API.styles.css
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\swae.build.ex.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplic.A15F9F72.Up2Date
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\refint\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.pdb
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.genruntimeconfig.cache
+D:\Github Repos\DotNet\AspNetCore - API\MyApplication\MyApplication.API\obj\Debug\net9.0\ref\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\appsettings.Development.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\appsettings.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.staticwebassets.endpoints.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.exe
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.deps.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.runtimeconfig.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.pdb
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\AutoMapper.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Azure.Core.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Humanizer.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.csproj.AssemblyReference.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.AssemblyInfoInputs.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.AssemblyInfo.cs
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\scopedcss\bundle\MyApplication.API.styles.css
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\swae.build.ex.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplic.A15F9F72.Up2Date
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\refint\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.pdb
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\MyApplication.API.genruntimeconfig.cache
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\obj\Debug\net9.0\ref\MyApplication.API.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\MyApplication.API.staticwebassets.runtime.json
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+D:\Github Repos\DotNet\AspNetCore - Web API\MyApplication\MyApplication.API\bin\Debug\net9.0\Serilog.Sinks.File.dll

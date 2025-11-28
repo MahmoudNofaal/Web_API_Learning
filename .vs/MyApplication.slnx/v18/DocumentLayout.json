@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\inmemoryregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\inmemoryregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\interfaces\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\interfaces\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\models\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\models\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\models\\dtos\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\models\\dtos\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\data\\applicationauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\data\\applicationauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\interfaces\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\interfaces\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\migrations\\20251128002552_create image table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\migrations\\20251128002552_create image table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\migrations\\applicationauthdb\\20251127222406_creating auth database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\migrations\\applicationauthdb\\20251127222406_creating auth database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:36:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryRegionRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\InMemoryRegionRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\InMemoryRegionRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\InMemoryRegionRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\InMemoryRegionRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:36:16.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "MyApplication.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvygAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:27:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApplication.API\\appsettings.json",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\appsettings.json",
+              "RelativeToolTip": "MyApplication.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T21:53:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Program.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Program.cs",
+              "RelativeToolTip": "MyApplication.API\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:56:27.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "MyApplication.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:00:26.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\Interfaces\\IRegionRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:36:05.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "MyApplication.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:22:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Models\\DTOs\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Models\\DTOs\\ImageUploadRequestDto.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Models\\DTOs\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "MyApplication.API\\Models\\DTOs\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:30:01.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251128002552_Create Image Table.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Migrations\\20251128002552_Create Image Table.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Migrations\\20251128002552_Create Image Table.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Migrations\\20251128002552_Create Image Table.cs",
+              "RelativeToolTip": "MyApplication.API\\Migrations\\20251128002552_Create Image Table.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:25:52.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\Interfaces\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:45:16.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "MyApplication.API\\Models\\DTOs\\AddRegionRequestDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:33:29.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyApplication.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:31:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251127222406_Creating Auth Database.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Migrations\\ApplicationAuthDb\\20251127222406_Creating Auth Database.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Migrations\\ApplicationAuthDb\\20251127222406_Creating Auth Database.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Migrations\\ApplicationAuthDb\\20251127222406_Creating Auth Database.cs",
+              "RelativeToolTip": "MyApplication.API\\Migrations\\ApplicationAuthDb\\20251127222406_Creating Auth Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:24:06.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyApplication.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:14:08.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:46:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyApplication.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyApplication.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T21:55:46.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationAuthDbContext.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Data\\ApplicationAuthDbContext.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Data\\ApplicationAuthDbContext.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Data\\ApplicationAuthDbContext.cs",
+              "RelativeToolTip": "MyApplication.API\\Data\\ApplicationAuthDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:14:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "MyApplication.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:25:48.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA2wFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:18:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\Interfaces\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\Interfaces\\IWalkRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\Interfaces\\IWalkRepository.cs",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\Interfaces\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:17:38.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Controllers\\WalksController.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "MyApplication.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:12:42.913Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
