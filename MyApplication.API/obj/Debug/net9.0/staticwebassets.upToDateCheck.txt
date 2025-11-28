@@ -1,0 +1,2 @@
+wwwroot\images\spider x.png
+wwwroot\images\some dummy.jpg

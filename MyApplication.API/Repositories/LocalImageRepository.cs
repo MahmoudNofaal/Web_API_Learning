@@ -27,13 +27,13 @@ public class LocalImageRepository : IImageRepository
                                        $"{image.FileName}{image.FileExtension}");
 
       // Upload Image to Local Path
-      using var stream = new FileStream(localFilePath, FileMode.OpenOrCreate);
+      using var stream = new FileStream(localFilePath, FileMode.Create);
 
       await image.File.CopyToAsync(stream);
 
       // https://localhost:1710/images/image.jpg
 
-      var urlFilePath = $"{_httpContextAccessor.HttpContext.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}{_httpContextAccessor.HttpContext.Request.PathBase}/{image.FileName}{image.FileExtension}";
+      var urlFilePath = $"{_httpContextAccessor.HttpContext.Request.Scheme}://{_httpContextAccessor.HttpContext.Request.Host}{_httpContextAccessor.HttpContext.Request.PathBase}/images/{image.FileName}{image.FileExtension}";
 
       image.FilePath = urlFilePath;
 

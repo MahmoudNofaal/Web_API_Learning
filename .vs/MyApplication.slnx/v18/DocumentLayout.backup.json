@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED80D5F2-7BC0-3144-B891-C97D93448B0A}|MyApplication.API\\MyApplication.API.csproj|solutionrelative:myapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6AF38D-4786-4A22-8647-941F87387350}|MyApplication.UI\\MyApplication.UI.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6AF38D-4786-4A22-8647-941F87387350}|MyApplication.UI\\MyApplication.UI.csproj|solutionrelative:myapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA6AF38D-4786-4A22-8647-941F87387350}|MyApplication.UI\\MyApplication.UI.csproj|d:\\github repos\\dotnet\\aspnetcore - web api\\myapplication\\myapplication.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6AF38D-4786-4A22-8647-941F87387350}|MyApplication.UI\\MyApplication.UI.csproj|solutionrelative:myapplication.ui\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +114,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Program.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Program.cs",
+              "RelativeToolTip": "MyApplication.API\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:46:48.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Program.cs",
+              "RelativeDocumentMoniker": "MyApplication.UI\\Program.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Program.cs",
+              "RelativeToolTip": "MyApplication.UI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:46:31.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Repositories\\LocalImageRepository.cs*",
+              "RelativeToolTip": "MyApplication.API\\Repositories\\LocalImageRepository.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCMAAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:39:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "MyApplication.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "MyApplication.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA2wCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T18:39:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\_ViewImports.cshtml",
@@ -106,12 +174,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:48:22.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:48:22.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\Shared\\Error.cshtml",
@@ -119,12 +186,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:48:20.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:48:20.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -132,12 +198,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:48:19.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:48:19.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\Shared\\_Layout.cshtml",
@@ -145,12 +210,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:48:18.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:48:18.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\Regions\\Index.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\Regions\\Index.cshtml",
@@ -158,25 +222,24 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\Regions\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:48:16.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:48:16.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RegionsController.cs",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "MyApplication.UI\\Controllers\\RegionsController.cs",
-              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Controllers\\RegionsController.cs*",
-              "RelativeToolTip": "MyApplication.UI\\Controllers\\RegionsController.cs*",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAKsAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "MyApplication.UI\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwK4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T17:47:00.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\Regions\\Add.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\Regions\\Add.cshtml",
@@ -184,12 +247,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\Regions\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:47:09.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:47:09.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\Regions\\Edit.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\Regions\\Edit.cshtml",
@@ -197,12 +259,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\Regions\\Edit.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:47:54.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:47:54.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MyApplication.UI\\Views\\_ViewStart.cshtml",
@@ -210,12 +271,11 @@
               "RelativeToolTip": "MyApplication.UI\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T17:48:23.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:48:23.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RegionsController.cs",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.API\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "MyApplication.API\\Controllers\\RegionsController.cs",
@@ -223,12 +283,11 @@
               "RelativeToolTip": "MyApplication.API\\Controllers\\RegionsController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA1wDMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T17:52:57.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:52:57.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "AddRegionViewModel.cs",
               "DocumentMoniker": "D:\\Github Repos\\DotNet\\AspNetCore - Web API\\MyApplication\\MyApplication.UI\\Models\\AddRegionViewModel.cs",
               "RelativeDocumentMoniker": "MyApplication.UI\\Models\\AddRegionViewModel.cs",
@@ -236,8 +295,7 @@
               "RelativeToolTip": "MyApplication.UI\\Models\\AddRegionViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T17:47:34.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T17:47:34.241Z"
             }
           ]
         },
